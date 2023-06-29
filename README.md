@@ -52,18 +52,8 @@
 -----
 
 -----
-### 🌟 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA POR TERMUX 🫰
-> **Note** Comandos para instalar de forma automática en Termux  
-```bash
-termux-setup-storage
-```
-```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/gata.sh | bash
-```
-```js
 
------
-### 🪄 (OPCIÓN 2) INSTALACIÓN MANUAL POR TERMUX - GITHUB 
+### 🪄 (OPCIÓN 1) INSTALACIÓN MANUAL POR TERMUX - GITHUB 
 > **Note** Comandos para instalar de forma manual
 ```bash
 termux-setup-storage
