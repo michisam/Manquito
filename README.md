@@ -219,7 +219,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 
 ### 🌟 CREADOR 
-[![Ancelsiñho](blob:https://web.whatsapp.com/1c107177-15e1-4b61-9d3b-3e39b1cd5157)](https://www.instagram.com/ancelzzz/) 
+[![Ancelsiñho](https://i.pinimg.com/564x/e3/1a/a5/e31aa5f8f0a757b5bac17a8c4ee52a0e.jpg)](https://www.instagram.com/ancelzzz/) 
 
  
 
