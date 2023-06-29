@@ -1,8 +1,8 @@
 {
-  "name": "GataBot-MD", 
+  "name": "Ancelsiñho", 
   "description": "Super Bot WhatsApp",
-  "repository": "https://github.com/GataNina-Li/GataBot-MD",
-  "logo": "https://i.imgur.com/8fK4h6F.jpg",
+  "repository": "https://github.com/Ancelbot/Kanx",
+  "logo": "blob:https://web.whatsapp.com/1c107177-15e1-4b61-9d3b-3e39b1cd5157",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
     {
