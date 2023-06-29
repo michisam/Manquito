@@ -81,21 +81,7 @@ apt update && apt upgrade && pkg install git nodejs ffmpeg imagemagick yarn && g
 ```
 > **Warning** Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación 
 ------------------
-### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
-> **Note** Descargué y Descomprime
-### [`GataBot-MD ~ Archivos`](https://github.com/GataNina-Li/GataBot-MD/archive/refs/heads/master.zip)
-[![blog](https://img.shields.io/badge/Termux-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/UcWlyQ8u5HE)
-```bash
-termux-setup-storage
-apt update
-apt upgrade
-pkg install -y git nodejs ffmpeg imagemagick yarn
-cd storage/downloads/GataBot-MD-master/GataBot-MD-master 
-yarn install
-npm install
-npm start
-```
+
 
 ### 🚀 USAR Ancelsiñho 24/7 EN TERMUX 
 > Ejecutar estos comandos dentro de la carpeta GataBot-MD
@@ -120,12 +106,12 @@ pm2 stop index
 pm2 start index
 ``` 
 ----
-### 😼 ACTUALIZAR GATABOT
-> **Note** Comandos para actualizar GataBot-MD de forma automática
+### 😼 ACTUALIZAR Ancelsiñho
+> **Note** Comandos para actualizar Ancelsiñho de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/update.sh | bash 
 ```
-#### Para que no pierda su progreso en GataBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+#### Para que no pierda su progreso en Ancelsiñho, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX                           
 
 ----
