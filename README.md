@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 <a href="https://chat.whatsapp.com/LWswMqaCyKX8Q5UwnVjXPZ">
-<img src="https://img.shields.io/badge/GataBot Update Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/Ancelsiñho🐈 Update Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </a>
 <a href="https://chat.whatsapp.com/LWswMqaCyKX8Q5UwnVjXPZ">
