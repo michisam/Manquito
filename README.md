@@ -49,16 +49,7 @@
 </a>
 </div>
 
-### ❇️ GRUPOS OFICIALES
-<a href="https://chat.whatsapp.com/EnQgSZuMLFAAfWtuCBE0G3" target="blank"><img src="https://img.shields.io/badge/1️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/ImTnZ3pvmI0Dc5nQNlxVaj" target="blank"><img src="https://img.shields.io/badge/2️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH" target="blank"><img src="https://img.shields.io/badge/3️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG" target="blank"><img src="https://img.shields.io/badge/4️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/GRLe6IF8Sec7xbJsSBFbla" target="blank"><img src="https://img.shields.io/badge/5️⃣_COMUNIDAD_GATABOT_🐈-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky" target="blank"><img src="https://img.shields.io/badge/🐈 ᴳᵃᵗᵃᴮᵒᵗ 🌟 ᴰᵒʳʳᵃᵗᴮᵒᵗ 🧿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS" target="blank"><img src="https://img.shields.io/badge/🐈 𝐆𝐚𝐭𝐚𝐁𝐨𝐭 & 𝐋𝐨𝐥𝐢𝐁𝐨𝐭 🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO" target="blank"><img src="https://img.shields.io/badge/💖 🅜🅤🅛🅣🅘 🅑🅞🅣🅢 💖-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+
 
 ### ✅ GATABOT OFICIAL
 <a href="http://wa.me/51950758440?text=.menu" target="blank"><img src="https://img.shields.io/badge/1️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -67,23 +58,7 @@
 </a>
 
 -----
-# 📍 Atajos del README
 
-| TEMA | DESCRIPCIÓN | ATAJO |
-|------|-------------|-------|
-| **TERMUX** | ***INSTALACIÓN AUTOMÁTICA*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-1-instalación-automática-por-termux-) |
-| **TERMUX** | ***INSTALACIÓN MANUAL*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-2-instalación-manual-por-termux---github) |
-| **TERMUX** | ***INSTALACIÓN POR ARCHIVOS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-opción-3-instalación-por-termux---archivos) |
-| **TERMUX 24/7** | ***COMANDOS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-usar-gatabot-247-en-termux) |
-| **TERMUX UPDATE** | ***COMANDOS PARA ACTUALIZAR GATABOT*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-actualizar-gatabot) |
-| **HEROKU** | ***INSTALACIÓN POR HEROKU*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-activar-en-heroku) |
-| **BOXMINE** | ***INSTALACIÓN POR BOXMINE*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-boxminehost) |
-| **REPLIT** | ***INSTALACIÓN POR REPLIT*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-replit---gatabot) |
-| **KOYEB** | ***INSTALACIÓN POR KOYEB*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-activar-en-koyeb) |
-| **WINDOWS** | ***INSTALACIÓN POR WINDOWS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-para-usuarios-de-windowsvpsrdp) |
-| **PREGUNTAS FRECUENTES** | ***DESPEJAR DUDAS*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-gatabot-md---preguntas) |
-| **SOBRE GATABOT** | ***SECCIONES DE INFORMACIÓN*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#sobre-gatabot--gb-global) |
-| **DESARROLLADORES** | ***PARTICIPATES DEL PROYECTO*** |[ver](https://github.com/GataNina-Li/GataBot-MD/#-creadora) |
 -----
 ### 🌟 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA POR TERMUX 🫰
 [![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/PESW8LXXlOI?feature=share)
@@ -175,159 +150,9 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ```
 #### Para que no pierda su progreso en GataBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX                           
-----
-### 🟣 ACTIVAR EN HEROKU 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GataNina-Li/GataBotMD-Heroku) 
-### 👇 Añada lo siguente al Buildpack: 
-```bash
-heroku/nodejs
-```
-```bash
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-```
-```bash
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
------
-- [x] Resultado <details><summary>Buildpack</summary><img src="https://i.imgur.com/t3Xzgnh.jpeg"></details>
------
-
-### ✅ BOXMINEHOST 
-[![blog](https://img.shields.io/badge/BoxMine-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/Ko019wvu2Tc)
-> Activar GataBot-MD 24/7 en BoxMine Host
-
-<a href="https://boxmineworld.com"><img src="https://i.imgur.com/allAyd4.png" height="125px"></a>
-### BoxMine World
-
-- Pagina Oficial: [`https://boxmineworld.com`](https://boxmineworld.com)
-- Tutorial - Crea una cuenta en la Dashboard: [`https://www.youtube.com/watch?v=ZAwBLuNmIlI`](https://www.youtube.com/watch?v=ZAwBLuNmIlI)
-- Dashboard: [`https://dash.boxmineworld.com`](https://dash.boxmineworld.com)
-- Panel: [`https://panel.boxmineworld.com`](https://panel.boxmineworld.com)
-- Dudas UNICAMENTE SOBRE EL HOST: [`https://discord.gg/84qsr4v`](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
-
-- [x] Resultado <details><summary>Ajustes del Servidor - GataBot-MD</summary><img src="https://i.imgur.com/N0SwvbY.jpeg"></details>
-------------------
-### ⚡ REPLIT - GATABOT
-[![blog](https://img.shields.io/badge/Replit-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/pQYkq4xv37o)
-<a target="_blank" href="https://replit.com/github/GataNina-Li/GataBot-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
-<a href="https://replit.com/github/GataNina-Li/GataBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
-------------------
-- [x] Resultado <details><summary>Importar Repositorio - GataBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
-------------------
-### 🌱 ACTIVAR EN KOYEB 
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GataNina-Li/GataBot-MD&branch=master&name=gatabot-md)
-
-------------------
-### ☁️ ACTIVAR EN RENDER 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FGataNina-Li%2FGataBot-MD) 
-
-------------------
-## 💻 PARA USUARIOS DE WINDOWS/VPS/RDP
-
-* Descargar e instala Git [`Aquí`](https://git-scm.com/downloads)
-* Descargar e instala NodeJS [`Aquí`](https://nodejs.org/en/download)
-* Descargar e instala FFmpeg [`Aquí`](https://ffmpeg.org/download.html) (**No olvide agregar FFmpeg a la variable de entorno PATH**)
-* Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
-* Descargar e instala Yarn [`Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
-```bash
-git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD && npm install && npm update && node .
-```
-## 💻 Instalación de FFmpeg para Windows 
-* Descarga cualquiera de las versiones de FFmpeg disponibles haciendo clic en [FFmpeg](https://www.gyan.dev/ffmpeg/builds/).
-* Extraer archivos a `C:\` path.
-* Cambie el nombre de la carpeta extraída a `ffmpeg`.
-* Ejecute el símbolo del sistema como administrador.
-* Ejecute el siguiente comando:
-```cmd
-> setx /m PATH "C:\ffmpeg\bin;%PATH%"
-```
-Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
-* Ahora que tiene FFmpeg instalado, verifique que funcionó ejecutando este comando para ver la versión:
-```cmd
-> ffmpeg -version
-```
-----  
-### ❔ GataBot-MD - Preguntas 
-<details>
-<summary><b>Configuración</b></summary>
-
-  - [x] **¿Como puedo hacer una bifurcación?**<br>
-  _Puede hacerlo desde [`💚 Aquí`](https://github.com/GataNina-Li/GataBot-MD/fork)._
-  
-  - [x] **¿Dónde puedo agregar el número del Bot?**<br>
-  _Puede hacerlo desde el archivo [`⚙️ config.js`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js). En el apartado `global.owner` puede agregar el número del Bot y más números como Owner._
-  ```js
-  global.owner = [
-  ['59311222333', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], // Número del Bot: Ejemplo +593 11 222 333
-  ['59300999222'], // Owner 1 +593 00 999 222
-  ['59377333999'] // Owner 2 +593 77 333 999
-]
-  ```
-  - [x] **¿Cómo edito el texto del Bot?**<br>
-  _Ir a la carpeta [`idiomas ✨`](https://github.com/GataNina-Li/GataBot-MD/tree/master/lib/idiomas) y selecciona el archivo del idioma que quiera modificar su contenido._
-  
-  - [x] **¿Dónde puedo cambiar el idioma de GataBot?**<br>
-  _Puede cambiar el idioma ingresando [`Aquí`](https://github.com/GataNina-Li/GataBot-MD/blob/362ee2d694a033923efd9bf9ca16a2b0694e3073/config.js#L41)_
-</details>
-
-<details>
-<summary><b>Preguntas sobre Termux</b></summary>
-
-  - [x] **¿Cómo puedo instalar GataBot en Termux?**<br>
-  _Puede usar la [`Instalación Automática 😼`](https://github.com/GataNina-Li/GataBot-MD/#-opci%C3%B3n-1-instalaci%C3%B3n-autom%C3%A1tica-por-termux-) si es la primera vez que va instalar._<br>
-  
-  - [x] **¿Cómo puedo descargar Termux?**<br>
-  _Puede descargar la versión de Termux e instalar [`Aquí 😉`](https://f-droid.org/es/packages/com.termux/)._
-  
-  - [x] **¿Cómo conectar a GataBot si se cierra la aplicación de Termux?**<br>
-  _Primero abrir Termux, luego usar este comando para iniciar GataBot si previamente ya hizo su instalación `cd GataBot-MD && npm start`_
-  <details><summary>Ejemplo</summary><img src="https://i.imgur.com/6nqEr5g.jpeg"></details>
-  
-  - [x] **¿Cómo iniciar GataBot si me encuentro dentro de su carpeta?**<br>
-  _Usar `npm start` para iniciar GataBot si ya está dentro de la carpeta_
-  <details><summary>Ejemplo</summary><img src="https://i.imgur.com/vqxz6Lc.jpeg"></details>
-  
-  - [x] **¿Cómo detengo Termux?**<br>
-  _Use el botón de termux `CTRL` + Tecla `Z` para detener termux._
-  
-  - [x] **Quiero tener Termux 24/7 ¿Cómo lo hago?**<br>
-  _Desde la carpeta de GataBot use los comandos [`24/7 Termux 🚀`](https://github.com/GataNina-Li/GataBot-MD/#-usar-gatabot-247-en-termux)_
-  <details><summary>Ejemplo</summary><img src="https://i.imgur.com/ZNarv99.jpeg"></details>
-  
-  - [x] **Comandos para obtener nuevo código QR:**<br>
-  _Diga estos comandos desde la carpeta de GataBot `rm -rf GataBotSession && npm start`_
-  
-  - [x] **¿Cómo actualizar GataBot?**<br>
-  _Desde la carpeta de GataBot usar los commandos para [`♻️ Actualizar GataBot-MD`](https://github.com/GataNina-Li/GataBot-MD/#-actualizar-gatabot)_
-  <details><summary>Ejemplo</summary><img src="https://i.imgur.com/1kLVQj4.jpeg"></details>
-  
-  - [x] **¿Que hago si no responde el Bot después de iniciar o si muestra un mensje diciendo "Mensaje en espera"?**<br>
-  _Detenga Termux y elimine la sesión de GataBot-MD para obtener un nuevo código QR._
-</details>
-
-<details>
-<summary><b>Preguntas sobre BoxMine</b></summary>
-
-- [x] **¿Cómo puedo Instalar GataBot-MD en BoxMine?**<br>
-_Puede visitar el tutorial [`💛 GataBot-MD ~ BoxMine`](https://youtu.be/Ko019wvu2Tc)_
-
-- [x] **¿Cómo puedo crear una cuenta en BoxMine?**<br>
-_Puede ver esa información [`Aquí 👈`](https://github.com/GataNina-Li/GataBot-MD/#-boxminehost)_
-
-- [x] **¿Cómo puedo actualizar?**<br>
-_Detener el servidor con el botón `STOP` luego ir a la pestaña `FILES` y descargar el archivo `database.json` dicho archivo es donde se almacena el progreso del Bot, luego de hacer el respaldo debe de eliminar todos los archivos y carpetas de `FILES`, luego ir a la pestaña `SETTINGS` y usar el Botón `REINSTALL SERVER` después espera un momento y cuando aparezca información del servidor ir a la pestaña `FILES` para agregar el archivo `database.json` que respaldó, luego guardar los cambios ir a la pestaña `CONSOLE` y usar el Botón `RESTART`. De ese modo se actualizará el Bot (Cabe recalcar que se borrará las configuraciones que hizo en `config.js` por lo que si quiere volver agregar la información deberá de editar dicho archivo antes de usar `RESTART`)._
-
-- [x] **¿Cómo puedo obtener un nuevo código QR?**<br>
-_Use el botón `STOP` luego ir a la pestaña `FILES` y borrar la carpeta `GataBotSession` guarde los cambios y luego ir a la pestaña `CONSOLE` y tendrá un nuevo código QR de debe de escanear._
-
-- [x] _Si tiene más dudas puede decirlo por el [`🟣 Servidor de Discord`](https://discord.gg/84qsr4v)_
-</details>
 
 ----
-### SOBRE GATABOT ~ GB-GLOBAL
+### SOBRE Ancelsiñho ~ GB-GLOBAL
 <details>
 <summary><b>Objetivo</b></summary><br>
 
@@ -340,27 +165,27 @@ _Use el botón `STOP` luego ir a la pestaña `FILES` y borrar la carpeta `GataBo
 <details>
 <summary><b>Funcionamiento</b></summary><br>
 
-  - [x] _GataBot utiliza la utilidad de Javascript y Shell para crear un código altamente funcional que permite gestionar la compatibilidad con WhatsApp._
+  - [x] _Ancelsiñho utiliza la utilidad de Javascript y Shell para crear un código altamente funcional que permite gestionar la compatibilidad con WhatsApp._
   - [x] _Con el uso de la biblioteca de código abierto Baileys, GataBot establece una conexión directa con la aplicación de WhatsApp, lo que permite una experiencia de usuario fluida._
-  - [x] _Se utiliza fuentes externas, APIs, imágenes, videos y documentos en línea para proporcionar una herramienta auténtica y completa que solventa una amplia gama de necesidades dentro de WhatsApp. Con estas características, los usuarios pueden disfrutar de una experiencia de usuario mejorada y eficiente al utilizar GataBot._
+  - [x] _Se utiliza fuentes externas, APIs, imágenes, videos y documentos en línea para proporcionar una herramienta auténtica y completa que solventa una amplia gama de necesidades dentro de WhatsApp. Con estas características, los usuarios pueden disfrutar de una experiencia de usuario mejorada y eficiente al utilizar Ancelsiñho._
 
 </details>
 
 <details>
 <summary><b>Privacidad</b></summary><br>
 
-  - [x] _En GataBot, la seguridad y privacidad de los usuarios son una prioridad fundamental. El código del Bot está diseñado para ser seguro tanto para el propietario del Bot como para los usuarios que interactúan con él._
+  - [x] _En Ancelsiñho, la seguridad y privacidad de los usuarios son una prioridad fundamental. El código del Bot está diseñado para ser seguro tanto para el propietario del Bot como para los usuarios que interactúan con él._
   - [x] _En lo que respecta a la recopilación de datos, GataBot solo recopila información pública, como el nombre de usuario, la descripción y la foto de perfil, con el único propósito de mantener el progreso del usuario en el Bot o identificar valores necesarios para realizar las funciones del Bot._
-  - [x] _El código de GataBot es completamente público y puede ser revisado detalladamente sin ningún inconveniente. Con estas características, los usuarios pueden estar seguros de que su información y privacidad están protegidas al interactuar con GataBot._
+  - [x] _El código de GataBot es completamente público y puede ser revisado detalladamente sin ningún inconveniente. Con estas características, los usuarios pueden estar seguros de que su información y privacidad están protegidas al interactuar con Ancelsiñho._
 
 </details>
 
 <details>
 <summary><b>Edición & Material</b></summary><br>
 
-  - [x] _GataBot está diseñado para ser altamente personalizable, por lo que si tienes conocimientos previos de código, puedes realizar modificaciones libremente en el código del Bot. Sin embargo, aunque el código es público y editable, por favor no olvides mencionar los créditos correspondientes para que GataBot siga recibiendo más novedades y mejoras en el futuro._
+  - [x] _Ancelsiñho está diseñado para ser altamente personalizable, por lo que si tienes conocimientos previos de código, puedes realizar modificaciones libremente en el código del Bot. Sin embargo, aunque el código es público y editable, por favor no olvides mencionar los créditos correspondientes para que GataBot siga recibiendo más novedades y mejoras en el futuro._
   - [x] _La personalización del Bot puede hacerse tanto a nivel de código como a través de herramientas de configuración, dependiendo de la plataforma o framework que se esté utilizando._  
-  - [x] _En cuanto al material que contiene GataBot, los usuarios pueden esperar encontrar una amplia variedad de contenido, incluyendo memes, inteligencia artificial que depende del PROMPT que reciba, contenido para adultos (quedando en el juicio del usuario asumir si tiene la edad suficiente para comprender dicho contenido), información que cambia dependiendo de la solicitud del usuario, audios y stickers. Por favor, ten en cuenta que nos reservamos el derecho de juzgar dicho contenido y tomar las medidas necesarias para mantener un ambiente seguro y apropiado en el uso de GataBot._
+  - [x] _En cuanto al material que contiene GataBot, los usuarios pueden esperar encontrar una amplia variedad de contenido, incluyendo memes, inteligencia artificial que depende del PROMPT que reciba, contenido para adultos (quedando en el juicio del usuario asumir si tiene la edad suficiente para comprender dicho contenido), información que cambia dependiendo de la solicitud del usuario, audios y stickers. Por favor, ten en cuenta que nos reservamos el derecho de juzgar dicho contenido y tomar las medidas necesarias para mantener un ambiente seguro y apropiado en el uso de Ancelsiñho._
 
 </details>
 
@@ -388,28 +213,13 @@ _Use el botón `STOP` luego ir a la pestaña `FILES` y borrar la carpeta `GataBo
 <details>
 <summary><b>Actualizaciones y cambios</b></summary><br>
 
-  - [x] _GataBot está en constante evolución y mejora, cada actualización busca solucionar errores, mejorar la eficiencia de las funciones existentes, agregar nuevas funciones y optimizar los recursos para una experiencia más fluida. Le recomendamos que se mantenga actualizado con las últimas versiones para disfrutar de todas las mejoras y nuevas características que se implementen en el futuro. ¡Gracias por usar GataBot!_
+  - [x] _Ancelsiñho está en constante evolución y mejora, cada actualización busca solucionar errores, mejorar la eficiencia de las funciones existentes, agregar nuevas funciones y optimizar los recursos para una experiencia más fluida. Le recomendamos que se mantenga actualizado con las últimas versiones para disfrutar de todas las mejoras y nuevas características que se implementen en el futuro. ¡Gracias por usar Ancelsñho!_
 
 </details>
 
-----
-### 💠 [`IDIOMAS DISPONIBLES PARA GATABOT`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
-#### 🌐 Español  
-#### 🌐 Inglés (English) 
-#### 🌐 Portugués (Português)
-#### 🌐 Indonesio (Bahasa Indonesia) 
-#### 🌐 Árabe (عرب)
-- [x] Ejemplo <details><summary>Idioma</summary><img src="https://i.imgur.com/RMWFgZo.jpeg"></details>
-----
 
-### 🌟 CREADORA 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+### 🌟 CREADOR 
+[![Ancelsiñho](blob:https://web.whatsapp.com/1c107177-15e1-4b61-9d3b-3e39b1cd5157)](https://www.instagram.com/ancelzzz/) 
 
-### 🌟 DESARROLLADORES
-<a href="https://github.com/GataNina-Li/GataBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
-</a>
-
-### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
+ 
 
