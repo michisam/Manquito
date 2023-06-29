@@ -49,14 +49,6 @@
 </a>
 </div>
 
-
-
-### ✅ GATABOT OFICIAL
-<a href="http://wa.me/51950758440?text=.menu" target="blank"><img src="https://img.shields.io/badge/1️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51948273587?text=.menu" target="blank"><img src="https://img.shields.io/badge/2️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573106055136?text=.menu" target="blank"><img src="https://img.shields.io/badge/3️⃣_𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
 -----
 
 -----
@@ -79,18 +71,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/gata.sh | bash"
 ```
-#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/GataNina-Li/GataBot-MD/blob/master/gata.sh)
-```js
-//LÍNEAS A MODIFICAR
-205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/GataNina-Li/GataBot-MD.git
 
-209 --> "cd [repositorio]"
-//Ejemplo: cd GataBot-MD
-
-//Una vez hecho estos cambios ejecute los nuevos comandos en Termux
-```
------
 ### 🪄 (OPCIÓN 2) INSTALACIÓN MANUAL POR TERMUX - GITHUB 
 > **Note** Comandos para instalar de forma manual
 ```bash
