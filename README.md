@@ -53,7 +53,6 @@
 
 -----
 ### 🌟 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA POR TERMUX 🫰
-[![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/PESW8LXXlOI?feature=share)
 > **Note** Comandos para instalar de forma automática en Termux  
 ```bash
 termux-setup-storage
@@ -97,11 +96,8 @@ yarn install
 npm install
 npm start
 ```
-* #### APLICACIÓN RECOMENDADA PARA MI [`DESCOMPRIMIR`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
-* #### APLICACIÓN RECOMENDADA PARA EDITAR [`NÚMERO DE OWNER`](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
-> **Note** Guardar los archivos en la ubicación: storage/downloads/GataBot-MD-master/GataBot-MD-master   
-----
-### 🚀 USAR GATABOT 24/7 EN TERMUX 
+
+### 🚀 USAR Ancelsiñho 24/7 EN TERMUX 
 > Ejecutar estos comandos dentro de la carpeta GataBot-MD
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
