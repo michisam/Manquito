@@ -62,6 +62,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 ```
 ```js
 
+-----
 ### 🪄 (OPCIÓN 2) INSTALACIÓN MANUAL POR TERMUX - GITHUB 
 > **Note** Comandos para instalar de forma manual
 ```bash
