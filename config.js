@@ -126,9 +126,9 @@ global.ig = 'https://www.instagram.com/ancelzzz/'
 global.md = 'https://www.instagram.com/ancelzzz/'
 global.fb = 'https://www.instagram.com/ancelzzz/'
 
-global.nna = 'https://chat.whatsapp.com/LWswMqaCyKX8Q5UwnVjXPZ' //UPDATE Ancelsiñho
+global.nna = 'https://www.instagram.com/ancelzzz/' //UPDATE Ancelsiñho
 global.nna2 = 'https://chat.whatsapp.com/LWswMqaCyKX8Q5UwnVjXPZ' //Help
-global.nn = 'https://chat.whatsapp.com/LWswMqaCyKX8Q5UwnVjXPZ' //Grupo 1
+global.nn = 'https://www.instagram.com/ancelzzz/' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/LWswMqaCyKX8Q5UwnVjXPZ' //Grupo 2
 global.nnnt = 'https://chat.whatsapp.com/LWswMqaCyKX8Q5UwnVjXPZ' //Grupo 3
 global.nnntt = 'https://chat.whatsapp.com/LWswMqaCyKX8Q5UwnVjXPZ' //Grupo 4
