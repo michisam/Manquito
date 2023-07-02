@@ -98,11 +98,11 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 
 ⊜ *Experiencia ➟* ${exp} ⚡
 ⊜ *Diamantes ➟* ${limit} 💎
-⊜ *AncelCoins ➟* ${money} 🐈
+⊜ *MichelCoins ➟* ${money} 🐈
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
-*╭━〔 INFORMACIÓN DE Ancelsiñho 〕⬣*
-┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
+*╭━〔 INFORMACIÓN DE 𝕄𝕚𝕔𝕙𝕖𝕝 〕⬣*
+┃💫➺ _${usedPrefix}cuentasancelbott | cuentasgb_
 ┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
 ┃💫➺ _${usedPrefix}donar | donate_
 ┃💫➺ _${usedPrefix}listagrupos | grouplist_
@@ -111,13 +111,14 @@ ${readMore}
 ┃💫➺ _${usedPrefix}instalarbot | installbot_
 ┃💫➺ _${usedPrefix}creadora | owner_
 ┃💫➺ _${usedPrefix}velocidad | ping_
-┃💫➺ _Bot_ 
+┃💫➺ _Informacion acerca del bot:_ 
+┃💫➺ Wa.me/51930454874
 ┃💫➺ _términos y condiciones_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 FUNCIÓN SUB BOT 〕━⬣*
 ┃ *Ya puedes convertir tú*
-┃ *Número en 𝐀𝐧𝐜𝐞𝐥𝐬𝐢𝐧̃𝐡𝐨!!*
+┃ *Número en 𝕄𝕚𝕔𝕙𝕖𝕝!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💻 _${usedPrefix}serbot | jadibot_
 ┃💻 _${usedPrefix}bots | listjadibots_
@@ -134,7 +135,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a GataBot en Grupos!!*
+┃ *Une a Michel en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
@@ -191,7 +192,7 @@ ${readMore}
 
 *╭━〔 IA 〕━⬣*
 ┃ *Tienes la Ocasión de*
-┃ *Conversar con GataBot!!*
+┃ *Conversar con 𝕄𝕚𝕔𝕙𝕖𝕝!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_
 ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_
@@ -281,7 +282,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃ *Mejora tú Grupo con GataBot!!*
+┃ *Mejora tú Grupo con 𝕄𝕚𝕔𝕙𝕖𝕝!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🌐➺ _${usedPrefix}add *numero*_
 ┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
